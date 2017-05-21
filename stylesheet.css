@@ -9,6 +9,8 @@
   overflow-x: hidden;
   border-color: blue;
   border-style: solid;
+  transform: rotate(-90deg);
+  transform-origin: right top;
 }
 
 .horizontal-scroll-wrapper > div {
