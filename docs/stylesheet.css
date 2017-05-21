@@ -3,7 +3,7 @@
 }
 
 .horizontal-scroll-wrapper {
-  width: 206px;
+  width: 306px;
   height: 300px;
   overflow-y: auto;
   overflow-x: hidden;
@@ -14,8 +14,8 @@
 }
 
 .horizontal-scroll-wrapper > div {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   border-color: red;
   border-style: solid;
   transform: rotate(90deg);
